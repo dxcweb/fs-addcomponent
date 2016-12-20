@@ -1,0 +1,40 @@
+{
+  "name": "fs-addcomponent",
+  "version": "0.0.1",
+  "description": "react与react-native使用函数来添加组件。",
+  "keywords": [
+    "fs-addcomponent"
+  ],
+  "homepage": "https://github.com/dxcweb/fs-addcomponent",
+  "maitainers": [
+    "605863278@qq.com"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dxcweb/fs-addcomponent.git"
+  },
+  "licenses": "MIT",
+  "config": {
+    "port": 8200
+  },
+  "scripts": {
+    "build": "rc-tools run build",
+    "start": "rc-tools run server",
+    "pub": "rc-tools run pub",
+    "up": "rc-tools run update-self"
+  },
+  "devDependencies": {
+    "fs-flex": "0.0.3",
+    "rc-tools": "^5.10.1",
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1"
+  },
+  "dependencies": {},
+  "files": [
+    "assets",
+    "examples",
+    "lib",
+    "src"
+  ],
+  "main": "./lib"
+}
