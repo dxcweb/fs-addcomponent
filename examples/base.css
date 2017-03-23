@@ -1,0 +1,50 @@
+
+/*new Animated.Value(0.5),  //0 2*/
+/*new Animated.Value(0),  //1 4*/
+/*new Animated.Value(0),  //2 6*/
+/*new Animated.Value(0.5),  //3 8*/
+/*new Animated.Value(0),  //4 3*/
+/*new Animated.Value(0),  //5 5*/
+/*new Animated.Value(0),  //6 7*/
+/*new Animated.Value(1)   //7 1*/
+
+.container2 .circle4 {
+    -webkit-animation-delay: -0.2s;
+    animation-delay: -0.2s;
+}
+
+.container1 .circle3 {
+    -webkit-animation-delay: -0.6s;
+    animation-delay: -0.6s;
+}
+.container2 .circle1 {
+    -webkit-animation-delay: -1.1s;
+    animation-delay: -1.1s;
+}
+
+
+.container1 .circle2 {
+    -webkit-animation-delay: -0.9s;
+    animation-delay: -0.9s;
+}
+
+.container2 .circle2 {
+    -webkit-animation-delay: -0.8s;
+    animation-delay: -0.8s;
+}
+
+
+
+
+.container2 .circle3 {
+    -webkit-animation-delay: -0.5s;
+    animation-delay: -0.5s;
+}
+
+
+
+.container1 .circle4 {
+    -webkit-animation-delay: -0.3s;
+    animation-delay: -0.3s;
+}
+

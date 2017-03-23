@@ -15,7 +15,7 @@
   },
   "licenses": "MIT",
   "config": {
-    "port": 8200
+    "port": 8201
   },
   "scripts": {
     "build": "rc-tools run build",
@@ -29,7 +29,9 @@
     "react": "^15.4.1",
     "react-dom": "^15.4.1"
   },
-  "dependencies": {},
+  "dependencies": {
+    "react-loading-func": "0.0.7"
+  },
   "files": [
     "assets",
     "examples",
